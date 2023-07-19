@@ -14,7 +14,7 @@
 # :books: About
 > Para me ajudar (e ajuda-lo também), eu escrevi dois notion, um possui apenas os conceitos. Ele é a documentação com conceitos mais completa que você irá ver de alguém relacionado da 42, diria que ele está relativamente profundo, o que é o suficiente para você se garantir durante uma avaliação. Ah, claro que, se desejar ficar um expert em sysadmin, recomendo que busque outras fontes de conhecimentos heheh, tem alguns vídeos e documentações bem interessantes sobre os conceitos.
 
-O segundo notion é um guia, ele possui apenas os comandos como um passo a passo a ser feito. Eu recomendo que intercale ele com o notion dos conceitos, pois assim você pode entender o que está fazendo e não apenas seguir um passo a passo.
+> O segundo notion é um guia, ele possui apenas os comandos como um passo a passo a ser feito. Eu recomendo que intercale ele com o notion dos conceitos, pois assim você pode entender o que está fazendo e não apenas seguir um passo a passo.
 
 **Notion dos conceitos:** [Born2beroot - Conceitos](https://www.notion.so/Born2beroot-Conceitos-9a5e2e1b0b9a4b6e9b0a0b5a0b5a0b5a)
 
