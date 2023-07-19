@@ -11,12 +11,12 @@
 # :information_source: About
 > O projeto do Born2beroot foi sobre a criação de um servidor, utilizando a distribuição Debian ou o Rocky. O projeto é dividido em duas partes, a primeira é a configuração da máquina virtual, e a segunda é a configuração do servidor. No geral, o projeto é relativamente simples de ser feito, mas é importante ter muita atenção aos conceitos de cada coisa, os comandos que você está executando e o que eles fazem, pois na avaliação terá que explica-los.
 
-# :books: About
+# :books: Guide and concepts
 > Para me ajudar (e ajuda-lo também), eu escrevi dois notion, um possui apenas os conceitos. Ele é a documentação com conceitos mais completa que você irá ver de alguém relacionado da 42, diria que ele está relativamente profundo, o que é o suficiente para você se garantir durante uma avaliação. Ah, claro que, se desejar ficar um expert em sysadmin, recomendo que busque outras fontes de conhecimentos heheh, tem alguns vídeos e documentações bem interessantes sobre os conceitos.
 
 > O segundo notion é um guia, ele possui apenas os comandos como um passo a passo a ser feito. Eu recomendo que intercale ele com o notion dos conceitos, pois assim você pode entender o que está fazendo e não apenas seguir um passo a passo.
 
-**Notion dos conceitos:** [Born2beroot - Conceitos](https://www.notion.so/Born2beroot-Conceitos-9a5e2e1b0b9a4b6e9b0a0b5a0b5a0b5a)
+**Notion do Bored2beroot:** [Bored2beroot - Notion](https://www.notion.so/Bored2beroot-Ultimate-guide-a498b4ef44e5463c97b8779823d4c0ed?pvs=4)
 
 
 # :star: Evaluation
